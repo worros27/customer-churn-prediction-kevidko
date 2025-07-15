@@ -1,0 +1,326 @@
+Customer_Name,Last_Order_Date,Frequency,Monetary,Recency_Days,Churn,is_churned,Balance Total
+399 Vietnamese Kitchen,5/28/2025,6,313.5,46,0,0,0
+A-1 Plus,7/23/2024,4,346.0,355,1,1,0
+American Paper and Provisions,4/24/2023,1,0.0,811,1,1,
+And Destroy Coffee,7/7/2025,5,1659.4,6,0,0,2311.05
+Avi Cue,2/5/2024,1,18.0,524,1,1,0
+Awakening,7/7/2025,2,157.0,6,0,0,731.9
+Azizam,6/24/2025,14,680.5,19,0,0,-42.61
+B&T's Deli,2/8/2024,1,49.82,521,1,1,0
+BUB AND GRANDMA'S - RESTAURANT,7/10/2025,204,10966.07,3,0,0,21612.83
+Bacetti,3/25/2025,3,-13.24,110,1,1,305.25
+Baked Bar LA,7/10/2025,58,3167.55,3,0,0,7296.51
+Bar Chelou,3/3/2025,6,216.2,132,1,1,-166.5
+Bar Nine- Culver City,12/6/2024,44,4175.35,219,1,1,-80.45
+Bar Nine- El Segundo,7/9/2025,17,1375.53,4,0,0,829.64
+Bar Siesta,4/14/2025,4,233.86,90,0,0,991.86
+Bell's Los Alamos,2/4/2025,3,277.96,159,1,1,382.39
+Belle's Bagels - Fair Oaks,10/18/2023,40,2646.82,634,1,1,599.95
+Belle's Bagels - York Blvd,6/19/2025,72,4066.77,24,0,0,4287.99
+Best Grocery Wholesale,7/9/2025,223,47063.49,4,0,0,1829.9
+Beth Jacob Congregation,7/2/2025,136,15703.23,11,0,0,723.22
+Bluey's Kitchen Santa Monica,7/11/2025,473,29041.41,2,0,0,1237.37
+Bluey's Kitchen Venice,7/7/2025,284,17492.26,6,0,0,3532.09
+Bnai David Judea Congregation,12/17/2024,6,2114.66,208,1,1,0
+"Bodega, Los Alamos",6/12/2025,2,502.52,31,0,0,0
+Bodega-----old Los Alamos (CHG)-----old,4/17/2025,9,941.16,87,0,0,0
+Borekas Sephardic Pastries- Van Nuys,5/29/2025,7,410.71,45,0,0,426.38
+Borekas Sephardic Pastries- Ventura,4/9/2025,1,85.99,95,1,1,0
+Bostan By Grandma,7/3/2025,6,399.43,10,0,0,0
+Bostons Best Coffee,5/28/2025,116,350266.66,46,0,0,39483.29
+Botanica Restaurant & Market,7/10/2025,97,6188.99,3,0,0,790.49
+Bread Head Manhattan Beach,7/7/2025,19,1016.0,6,0,0,3232.59
+Bread Head Restaurant,7/7/2025,57,2975.5,6,0,0,5154.6
+Bread and Butter Bakery,7/11/2025,44,2991.64,2,0,0,2588.18
+Bridgetown Roti,7/10/2025,4,213.48,3,0,0,442.95
+Buena Vida Tea Bar,6/12/2025,61,3052.64,31,0,0,369.58
+Bun & Mi,6/30/2025,2,89.5,13,0,0,766.64
+Burgers Never Say Die,12/3/2024,2,98.77,222,1,1,672.36
+C O D,9/4/2024,9,554.13,312,1,1,0
+CIVIL COFFEE - HIGHLAND PARK,7/7/2025,514,40160.17,6,0,0,1007.11
+Cafe Tropical,7/9/2025,99,6792.55,4,0,0,595.99
+Calabasas Coffee House,7/11/2025,50,3137.6,2,0,0,1458.45
+California Pita,5/5/2025,3,173.98,69,0,0,2048.26
+Campsite Brewing Co.,7/7/2025,13,1197.06,6,0,0,616.6
+Cannonball,3/27/2025,2,99.0,108,1,1,1665.32
+Canyon Coffee,6/30/2025,79,18840.7,13,0,0,3767.6
+Carla Cafe Santa Monica,2/24/2025,13,651.76,139,1,1,889.01
+Carla Cafe West 3rd,7/5/2025,119,8033.43,8,0,0,4710.28
+Carla's Fresh Market,4/16/2024,2,143.96,453,1,1,
+Carmelized Productions,6/18/2025,4,123.0,25,0,0,43.55
+Ceci's Gastronomia,6/2/2025,26,1228.96,41,0,0,929.88
+Chabad Persian Temple,4/4/2023,1,55.0,831,1,1,0
+Chuy's Tacos Dorados,5/28/2025,3,171.75,46,0,0,-709.76
+City Fare Catering,5/9/2023,7,453.04,796,1,1,0
+City Paper Box (Sales),10/12/2022,14,22628.0,1005,1,1,0
+Civil Coffee DTLA,6/25/2025,177,10072.24,18,0,0,64.69
+Civil Coffee- Studio City,7/8/2025,516,40211.82,5,0,0,-547.05
+Coffee For Sasquatch,1/9/2023,23,2693.95,916,1,1,0
+Coffee Memes,6/16/2025,107,7093.8,27,0,0,552.82
+Cognoscenti Coffee San Julian,4/10/2025,15,1637.29,94,1,1,0
+Cognoscenti Coffee- Culver,2/14/2025,6,1030.5,149,1,1,0
+Columbia Plastic,11/14/2024,22,37972.22,241,1,1,-822.83
+Comet over Delphi,7/2/2025,40,3493.0,11,0,0,12449.89
+Companion Venice,7/2/2025,95,8149.06,11,0,0,0
+Constellation Coffee- Ca�ada,3/19/2024,6,1118.5,481,1,1,
+Cookbook Larchmont,7/10/2025,137,6160.13,3,0,0,1986.35
+Cookbook Market Echo Park,5/14/2025,46,2869.54,60,0,0,483.92
+Cookbook Market Highland Park,7/3/2025,115,6311.33,10,0,0,3331.28
+Couplet Coffee,7/7/2025,20,2730.82,6,0,0,530.74
+Courage Bagels LLC,7/7/2025,149,11757.76,6,0,0,-308.21
+Daniel's Bagels,6/26/2025,14,743.04,17,0,0,733.3
+Daybird,7/1/2025,48,2424.94,12,0,0,69.72
+Dayglow Silverlake,12/6/2023,19,1844.82,585,1,1,0
+Demitasse Santa Monica,7/8/2025,274,18112.09,5,0,0,618.85
+Desert's,5/29/2025,12,1533.93,45,0,0,-270.57
+Destroyer,12/12/2024,207,12522.63,213,1,1,0
+Doubting Thomas,7/7/2025,96,5244.02,6,0,0,-260.32
+Dover Street Market LA,10/4/2024,43,3392.8,282,1,1,0
+"Dura Sourcing, INC",7/24/2024,14,10313.5,354,1,1,535.15
+EBAY CUSTOMERS WEBGILITY,4/27/2023,9,615.91,808,1,1,0
+El Alteno Wholesale,9/1/2022,6,15823.85,1046,1,1,0
+El Chucho,8/1/2023,2,119.5,712,1,1,364.18
+El Mirasol Cocina Mexicana,10/2/2024,3,394.0,284,1,1,2042.57
+Elat Supermarket,11/11/2024,16,3941.85,244,1,1,3378.73
+Escamex,7/3/2025,194,156152.4,10,0,0,6696.2
+Eszett,9/16/2022,1,65.21,1031,1,1,
+Everson Royce Bar,7/7/2025,174,12694.64,6,0,0,3225.93
+Factor's Famous Deli,7/10/2025,208,12295.01,3,0,0,9063.15
+Farm Cup Coffee,7/1/2025,34,1772.96,12,0,0,1962.69
+Fatty Mart,6/30/2025,144,9287.78,13,0,0,1868.44
+Ferrazzani's Pasta & Market,6/16/2025,9,631.49,27,0,0,175.13
+Fiesta Mex #2,9/19/2023,9,1900.0,663,1,1,0
+Finest City Paper,7/11/2025,1635,293978.16,2,0,0,77673.24
+Flame Persian Cuisine,7/8/2025,15,1051.74,5,0,0,2928.99
+Friends & Family Pizza Co,10/17/2024,8,309.95,269,1,1,50.86
+Friends & Family Silverlake,7/10/2025,34,1903.08,3,0,0,0
+Friends and Family Hollywood,7/9/2025,91,5144.77,4,0,0,1333.51
+Fundamental Events Inglewood,7/9/2025,107,16201.88,4,0,0,7547.24
+G&B Coffee - Grand Central Market,6/27/2025,155,12507.62,16,0,0,1966.45
+GGET Culver City,2/19/2025,510,41247.21,144,1,1,6729.67
+GGET HQ,8/22/2024,415,90113.89,325,1,1,4980.47
+GGET Larchmont,6/18/2025,515,47236.38,25,0,0,4671.14
+GGET Los Feliz,9/3/2024,382,25329.16,313,1,1,3901.2
+GGET Montana,7/7/2025,297,17879.4,6,0,0,6156.71
+GGET ROW,6/23/2025,255,18207.71,20,0,0,2556.14
+GGET TMC,9/14/2022,2,127.76,1033,1,1,
+GGET West Hollywood,1/23/2025,507,38257.46,171,1,1,2767.34
+GGET-Highland Park,2/11/2025,356,24774.88,152,1,1,1839.39
+GGET-Santa Monica,7/18/2023,47,2675.33,726,1,1,
+Game n Grounds,7/7/2025,70,9018.18,6,0,0,1765.02
+General Sales Equipment,3/21/2025,2,156.78,114,1,1,463.72
+Gingergrass Mini Mart,7/10/2023,3,151.48,734,1,1,0
+Gingergrass Silverlake,6/19/2025,34,1708.55,24,0,0,7278.4
+Gjelina Take Away,5/20/2024,35,1728.6,419,1,1,1096.63
+Gjusta Bakery Venice,4/6/2023,2,160.04,829,1,1,1052.55
+Gjusta Grocer,6/30/2025,247,15881.98,13,0,0,2389.96
+Glowing Juices,6/19/2025,176,10258.48,24,0,0,-268.08
+Gnarwhal Coffee,7/8/2025,500,37997.5,5,0,0,-702.4
+Goldburger Chinatown,6/26/2025,3,199.28,17,0,0,4601.16
+Goldburger Highland Park,7/1/2025,41,2042.62,12,0,0,5850.34
+Goldburger Los Feliz,6/16/2025,47,2590.64,27,0,0,6248.78
+Good Intentions Coffee,7/2/2025,4,263.35,11,0,0,307.26
+Good Neighbor Bar,7/8/2025,7,449.75,5,0,0,1468.4
+Great White Brentwood,7/8/2025,26,1380.79,5,0,0,4662.09
+Great White Larchmont,7/7/2025,31,2047.21,6,0,0,12453.25
+Great White Melrose,7/7/2025,31,2415.72,6,0,0,2645.73
+Great White Venice,7/11/2025,57,3885.39,2,0,0,6991.95
+Guerrilla Tacos,12/18/2024,27,1554.67,207,1,1,-740.62
+Happies Hand Made,6/5/2025,6,736.25,38,0,0,999.98
+Heavy Water Coffee Shop,1/30/2024,3,203.5,530,1,1,0
+Hi Tops,10/14/2022,25,3208.67,1003,1,1,0
+Highlight Coffee Glendale,3/4/2025,3,195.62,131,1,1,-14.48
+Highlight Coffee Pasadena,7/7/2025,69,9471.57,6,0,0,522.2
+Hippo Restaurant,6/24/2025,22,1318.09,19,0,0,557.33
+Holey Grail Donuts,4/25/2023,18,2657.25,810,1,1,0
+Holy Grounds St. Monica,6/17/2025,32,5881.17,26,0,0,349.22
+Homestate Atwater,6/10/2025,74,2788.34,33,0,0,4697.48
+Homestate Commissary,11/4/2022,1,58.87,982,1,1,9293.19
+Homestate Culver City,5/8/2025,48,1919.99,66,0,0,5090.02
+Homestate Highland Park,7/7/2025,124,5624.0,6,0,0,6503.4
+Homestate Oceanside,6/11/2025,42,1853.87,32,0,0,3704.98
+Homestate Pasadena,6/30/2025,160,7233.05,13,0,0,11970.25
+Homestate Playa Vista,6/9/2025,114,4735.38,34,0,0,5160.98
+Homestate Sherman Oaks,7/1/2025,110,5500.43,12,0,0,8957.51
+Homestate- Hollywood,6/19/2025,168,7599.3,24,0,0,8102.44
+Homestate- West Adams,4/7/2023,2,117.77,828,1,1,
+Hoover Supply (Sales),7/9/2025,8,13750.0,4,0,0,2675
+How's It Going To End?,6/26/2025,82,14137.95,17,0,0,-167.31
+Immersion,6/25/2025,9,1308.96,18,0,0,0
+JAVISTA Hollywood,7/7/2025,135,6104.45,6,0,0,4056.43
+Javista Coffee West Hollywood,7/9/2025,144,5779.39,4,0,0,2001
+Jim Dandy,7/8/2025,32,942.0,5,0,0,5511.6
+Jireh Cash and Carry,5/12/2023,15,11806.0,793,1,1,0
+Joint Seafood,7/9/2025,4,206.54,4,0,0,398.83
+Jon & Vinny's - Beverly Hills,5/2/2023,19,1102.04,803,1,1,
+Jon & Vinny's - Brentwood,5/2/2023,38,2056.94,803,1,1,
+Jon & Vinny's - Fairfax,5/2/2023,28,1568.78,803,1,1,
+Jon & Vinny's- Slauson,5/2/2023,25,1419.84,803,1,1,
+Jones Coffee Roasters,7/8/2025,276,57265.1,5,0,0,64098.43
+Jones Coffee Roasters:Mission St,7/1/2025,211,13393.29,12,0,0,4590.45
+Jones Coffee Roasters:Raymond Street,6/24/2025,228,14286.25,19,0,0,3836.2
+Jones Coffee Roasters:South Arroyo,6/24/2025,217,13330.84,19,0,0,3053.15
+Joseon,3/27/2024,15,950.45,473,1,1,
+Joy Highland Park,7/8/2025,267,12005.95,5,0,0,7640.43
+Jugo Thousand Oaks,6/17/2025,68,11714.73,26,0,0,2236.22
+Just What I Kneaded,3/19/2024,118,7949.34,481,1,1,0
+Jyan Isaac Bread,7/10/2025,243,15488.97,3,0,0,21867.79
+K-Trade Inc,11/22/2022,4,29145.0,964,1,1,0
+KEVIDKO Store Use,10/8/2024,1,0.0,278,1,1,4273.36
+Kindness & Mischief,12/19/2022,36,5156.73,937,1,1,0
+Kismet Restaurant,5/28/2025,14,633.48,46,0,0,-849.76
+Kismet Rotisserie,3/22/2023,48,1646.24,844,1,1,
+Konbi,2/13/2023,54,4594.58,881,1,1,
+"KosmaTex, Inc.",1/27/2023,1,58.87,898,1,1,520.7
+Kustaa Cheese and Wine,6/18/2025,5,272.06,25,0,0,393.8
+Kye's Kitchen k12/ Colony,2/21/2023,2,149.86,873,1,1,
+Kye's Montana,10/11/2022,4,331.08,1006,1,1,
+LAMILL Anaheim,7/7/2025,76,4837.5,6,0,0,384.99
+LAMILL Silverlake,7/7/2025,344,22508.67,6,0,0,114.7
+LAN Noodle,12/31/2024,18,739.1,194,1,1,308.82
+LAX-C,2/12/2025,2,940.0,151,1,1,-4785
+La Sabrosa,7/7/2025,100,50828.0,6,0,0,1087.5
+La Sorted's Chinatown,7/9/2025,15,1471.66,4,0,0,788.61
+LaSorteds Sunset,5/21/2025,2,228.64,53,0,0,2510.23
+Lamill Roastery,6/6/2025,4,4225.0,37,0,0,2647.77
+Larder Baking Co.,7/10/2025,49,4549.37,3,0,0,19111.78
+Le Great Outdoor,7/10/2025,24,1857.54,3,0,0,4000.14
+Legacy Wholesale Group,6/26/2025,166,269452.75,17,0,0,9413
+Lighthouse Venice LLC,6/27/2025,27,1765.42,16,0,0,1274.45
+Likeminded,7/1/2025,25,1329.88,12,0,0,90.32
+Lingua Franca,7/10/2025,12,756.34,3,0,0,0
+Little Bear,7/7/2025,10,962.58,6,0,0,1728.32
+Little Fatty,12/20/2024,5,169.37,205,1,1,1129.09
+Little Fish Echo Park,7/2/2025,41,2470.94,11,0,0,1198.98
+Liu's Cafe,7/8/2025,32,1759.66,5,0,0,6.08
+Livonia Glatt Market,7/8/2025,15,1847.22,5,0,0,5168.23
+Lo/Cal Coffee & Market FAIRFAX,6/10/2025,155,11421.44,33,0,0,6467.64
+Lo/Cal Coffee & Market PICO,7/7/2025,254,14764.63,6,0,0,2431.9
+Lutie,7/1/2025,17,1181.12,12,0,0,1666.03
+M & B Marketing Supplies,2/28/2024,12,2199.95,501,1,1,0
+MDD Supply,6/26/2025,119,230183.4,17,0,0,38501.9
+Makisupa Coffee Bar,9/24/2024,13,741.5,292,1,1,-64.5
+Marlowe Coffee & Eatery,6/23/2025,22,1239.19,20,0,0,431.88
+Maru Coffee Hillhurst,7/9/2025,55,6273.2,4,0,0,1468.04
+Maru Coffee N Canon,7/10/2025,105,12543.47,3,0,0,2634.3
+Maru Coffee S Santa Fe,7/10/2025,54,8845.22,3,0,0,22584.45
+Maury's,7/8/2025,286,24513.95,5,0,0,7307.94
+Menotti's Coffee Stop,7/9/2025,1079,114247.82,4,0,0,7422.02
+Metabolic Market,4/7/2025,2,103.2,97,1,1,0
+Meteora,7/2/2024,2,133.66,376,1,1,3974.76
+Meymuni Cafe & Bazaar,6/24/2025,18,3589.42,19,0,0,348.66
+Michaels,6/26/2024,11,748.71,382,1,1,-23.57
+Mint Juicery,7/24/2023,2,185.56,720,1,1,0
+Monroe Place,4/28/2025,15,830.84,76,0,0,-382.23
+Moo's Craft Barbecue,7/8/2025,115,7194.27,5,0,0,4125.21
+Moto Ramen,8/28/2023,10,554.31,685,1,1,
+Mustard's Bagels,7/10/2025,10,856.18,3,0,0,0
+My Lai,7/2/2024,48,2866.16,376,1,1,
+Naan Hut,5/13/2025,20,1285.86,61,0,0,1677.58
+Neighborhood Coffee Shop 3rd St,7/8/2025,379,38106.81,5,0,0,637.9
+Neighborhood La Brea,7/9/2025,237,19345.93,4,0,0,7439.57
+Noun,2/28/2025,4,212.0,135,1,1,0
+Osteria La Buca - Melrose,6/3/2025,11,758.34,40,0,0,1218.3
+Osteria La Buca - Sherman Oaks,6/30/2025,21,900.95,13,0,0,2213.11
+Paisita Cafe,7/10/2025,12,566.37,3,0,0,3236.51
+Parakeet Bakery - Morena,6/13/2025,2,94.69,30,0,0,2426.89
+Parakeet Cafe & Juicery - Coronado,7/9/2025,104,7672.82,4,0,0,3272.51
+Parakeet Cafe - Beverly Hills,7/7/2025,46,2578.23,6,0,0,780.45
+Parakeet Cafe - Brentwood,7/1/2025,46,2719.35,12,0,0,347.31
+Parakeet Cafe - Carlsbad,7/11/2025,98,5739.92,2,0,0,1146.41
+Parakeet Cafe - Del Mar,7/2/2025,48,3547.83,11,0,0,1227.78
+Parakeet Cafe - La Jolla,6/27/2025,48,3448.63,16,0,0,0
+Parakeet Cafe - La Jolla Cove Hotel,7/11/2025,50,2712.99,2,0,0,298.12
+Parakeet Cafe - Little Italy,7/11/2025,143,8450.71,2,0,0,1187.9
+Parakeet Cafe - Newport Beach,7/8/2025,100,6231.6,5,0,0,1095.91
+Parakeet Juicery - Del Mar,7/11/2025,65,4882.96,2,0,0,1360.29
+Parakeet Juicery - La Jolla,7/11/2025,91,7469.25,2,0,0,2550.26
+Parakeet Juicery Coronado,7/11/2025,13,767.66,2,0,0,200.42
+Pasta Sisters - Adams,4/22/2025,3,154.95,82,0,0,1681.87
+Pasta Sisters Culver City,7/1/2025,108,5279.11,12,0,0,7466.98
+Pasta Sisters Pico,7/2/2025,70,3441.99,11,0,0,2540.08
+Pasta Sisters Truck,7/6/2023,1,63.0,738,1,1,
+Pending Account,9/15/2023,3,226.28,667,1,1,0
+Perilla LA,6/30/2025,28,1500.39,13,0,0,852.18
+Petitegrain Boulangerie,9/17/2024,11,770.93,299,1,1,-62.12
+Pico Glatt,1/5/2023,7,765.88,920,1,1,0
+Pine & Crane DTLA,7/10/2025,354,18783.15,3,0,0,8126.85
+Pine & Crane Silverlake,7/10/2025,284,16245.05,3,0,0,19579.63
+Priedite Barbecue,10/8/2024,1,48.87,278,1,1,374.86
+Proof Bakery,7/8/2025,41,3496.63,5,0,0,244.35
+Quarter Sheets LLC,7/9/2025,2,94.0,4,0,0,1221.48
+Rad Juice Bar,7/9/2025,5,254.48,4,0,0,750.12
+Rafie's Unlimited,6/27/2025,5,329.0,16,0,0,0
+Raquel's CNC,4/25/2023,8,2504.4,810,1,1,0
+Revolution Roasters- Carlsbad,7/11/2025,235,15131.04,2,0,0,7572.28
+Revolution Roasters- Oceanside,7/11/2025,239,14358.09,2,0,0,543.29
+SUSHIKO BAR INC,6/23/2025,32,1908.34,20,0,0,1504.06
+Saavedras's,6/20/2025,49,11970.44,23,0,0,2276.9
+Saba Surf,3/28/2025,40,4974.19,107,1,1,-147.8
+Saffy's,6/16/2025,15,1325.4,27,0,0,9190.28
+Saint Coffee Shop,2/6/2024,3,142.5,523,1,1,0
+Saladino's Foodservice,10/12/2022,4,44880.0,1005,1,1,
+Savvy,11/10/2023,8,7933.0,611,1,1,0
+Shaherzad,7/1/2025,2,114.5,12,0,0,7059.41
+Silverlake Wine,7/10/2025,23,3491.96,3,0,0,-1.34
+Simon's Caterers,12/12/2024,10,1685.31,213,1,1,0
+Skaf's On York,10/10/2024,6,313.5,276,1,1,426.55
+Sobuneh,6/13/2025,11,505.44,30,0,0,-1132.05
+Softies,7/9/2025,6,286.0,4,0,0,1833.18
+Square one Dining,2/5/2025,28,1639.91,158,1,1,860.85
+Stirred Roasters Coffee House,10/1/2024,147,13243.26,285,1,1,-716.45
+Storm Burger,7/7/2025,124,8269.54,6,0,0,30983.87
+Sua Superette Larchmont,7/10/2025,108,6692.12,3,0,0,1929.25
+Sunnin,6/30/2025,137,6307.27,13,0,0,-247.26
+Super Tochal,9/5/2022,1,58.87,1042,1,1,6304.87
+TEST,4/15/2025,2,0.0,89,0,0,0
+THICC Burger LA,4/17/2024,5,283.08,452,1,1,1795.32
+Tacos Tu Madre-WEHO,12/20/2023,2,193.5,571,1,1,
+Tail O' the Pup,7/8/2025,27,2152.59,5,0,0,2217.47
+Tehran Market,7/9/2025,5,400.29,4,0,0,7440.49
+"The Daily, by HC",5/16/2025,36,2112.39,58,0,0,0
+The Georgian Hotel,5/12/2025,87,5809.62,62,0,0,7059.66
+The Hermosillo,4/29/2025,74,3630.51,75,0,0,1489.21
+The Rooster,1/6/2023,15,974.06,919,1,1,0
+The Social Club,11/15/2024,1,55.0,240,1,1,-121.08
+The Stackz Co,6/26/2025,23,1122.14,17,0,0,5654.96
+Tiago Coffee Bar + Kitchen,7/7/2025,372,26210.32,6,0,0,7380.11
+Tomat,6/30/2025,7,500.65,13,0,0,634.79
+Tortoni Caffe,5/27/2025,2,48.87,47,0,0,309.09
+Townhouse,7/10/2025,42,2422.76,3,0,0,2311.4
+Townie Bagels,7/11/2025,227,17710.9,2,0,0,414.66
+Triple Beam Pizza Commissary,6/3/2025,9,538.92,40,0,0,3516.49
+Triple Beam Pizza Echo Park,7/7/2025,105,5643.46,6,0,0,3821.08
+Triple Beam Pizza Glendora,7/22/2024,8,457.44,356,1,1,-0.3
+Triple Beam Pizza Highland Park,7/7/2025,121,6773.38,6,0,0,3143.09
+Triple Beam Pizza Santa Monica,6/27/2025,37,1915.34,16,0,0,3258.42
+Triple One Market Supply,1/19/2023,24,17155.81,906,1,1,0
+Trophies Burger Club,11/29/2022,12,772.36,957,1,1,
+Unincorporated Coffee - Altadena,7/7/2025,111,7876.15,6,0,0,4953.21
+Unincorporated Coffee - Altadena:Unincorporated Coffee - Altadena #2,12/9/2024,150,10145.65,216,1,1,0
+Unincorporated Coffee - Altadena:Unincorporated Coffee - Burbank,4/15/2024,72,3865.36,454,1,1,0
+Unincorporated Coffee - Altadena:Unincorporated Coffee - Eagle Rock,7/7/2025,320,19068.3,6,0,0,2935.11
+Upper East Slice,6/3/2025,4,229.0,40,0,0,0
+Vamos. Vamos.,11/20/2024,16,1476.2,235,1,1,-79.68
+Varsity Bakers,2/12/2025,11,607.74,151,1,1,362.8
+Vidal Produce #2,6/10/2025,159,43684.79,33,0,0,0
+Viele & Sons,9/30/2022,1,5312.5,1017,1,1,0
+Villas Tacos,5/20/2025,35,2485.89,54,0,0,-356.06
+Vitorrja,8/29/2023,1,63.0,684,1,1,0
+Wake and Late 6th,7/7/2025,97,4991.51,6,0,0,1800.62
+Wake and Late Pasadena,7/11/2025,153,9041.54,2,0,0,53809.96
+Wake and Late Selma,7/9/2025,114,5096.69,4,0,0,2369.87
+Wallflour Pizza,4/22/2025,1,61.75,82,0,0,647.08
+Wax Paper Chinatown,5/22/2025,11,424.9,52,0,0,0
+Wax Paper Frogtown,6/12/2025,57,2544.99,31,0,0,1692.65
+Webgility Shop KEVIDKO,7/9/2025,6533,1112089.34,4,0,0,-4471.75
+West Altadena Wine + Spirits,9/24/2024,1,127.2,292,1,1,0
+Wexler's Deli- DTLA,3/11/2025,2,112.82,124,1,1,0
+Wexler's Deli- Santa Monica,6/18/2025,13,625.88,25,0,0,2133.39
+Wild Crust,5/14/2025,3,189.46,60,0,0,1095.25
+Woon Number Two,5/8/2025,4,371.62,66,0,0,1896.65
+YALA COFFEE COMPANY,7/10/2025,171,13665.3,3,0,0,-196.47
+YC Meat Market,3/5/2025,2,97.74,130,1,1,0
+Yang's Kitchen,1/9/2025,4,490.39,185,1,1,484.18
+Yellow Paper Burger,6/10/2025,6,232.11,33,0,0,4038.14
+Young Israel Congregation,4/28/2025,23,5499.87,76,0,0,0
